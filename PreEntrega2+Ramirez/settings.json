@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
+    "liveSassCompile.settings.partialsList": [
+        "/**node_modules/**",
+    "/.vscode/**",
+"/.history/**"
+
+    ],
+    "liveSassCompile.settings.rootIsWorkspace": true,
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "liveSassCompile.settings.useNewCompiler": false,
+    "liveSassCompile.settings.autoprefix": [
+        
+    ],
+}
